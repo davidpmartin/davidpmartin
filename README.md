@@ -6,7 +6,7 @@ This page will serve as somewhat of an index for the contents of my github. The 
 
 
 ### Web Development
-* [Site Monitoring](https://github.com/davidpmartin/sitemonitoring) : NEMV stack (Node, Express, MongoDB, Vue), developed through Gitlab CICD
+* [Site Monitoring](https://github.com/davidpmartin/sitemonitoring) : Node, Express, MongoDB, Vue, Gitlab CICD, Docker
 * [Qt-bot](https://github.com/davidpmartin/qt-bot) : Node.js discord bot
 
 ### Software
