@@ -4,6 +4,8 @@ I'm a Software Developer experienced in web-based application development. I've 
 
 This page will serve as somewhat of an index for the contents of my github. The repositories range across side-projects (most of which are unfinished :)), contributions, code samples, and so on. As a lot of my development work has been on in-house solutions in my public sector role, not too much of it is externally accessible but I've provided sanitised samples where possible.
 
+If you would like to get in touch, you can reach me at davidpmartin127@gmail.com
+
 
 ### Web Development
 * [Monitoring App](https://github.com/davidpmartin/sitemonitoring) : Node (Typescript), Express, MongoDB, Vue, Gitlab CICD, Docker
