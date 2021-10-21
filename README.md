@@ -1,6 +1,6 @@
 ## Hi, I'm Dave.
 
-I'm a Software Developer experienced in web-based application development. I've had exposure to a wide variety of different programming and scripting languages, but my main stack has been Nodejs/Typescript, Express, MongoDB and Vuejs. My primary interests are backend development and systems design, as I'm highly engaged by finding elegant solutions to complex and technically challenging problems. I also place a high emphasis on quality over quantity, desiring to produce clean and efficient code incorporating best practises and established design principles.
+I'm a Software Developer experienced in full stack application development. I've had exposure to a wide variety of different programming and scripting languages, but my main stack has been Nodejs/Typescript, Express, MongoDB and Vuejs. My primary interests are backend development and systems design, as I'm highly engaged by finding elegant solutions to complex and technically challenging problems. I also place a high emphasis on quality over quantity, desiring to produce clean and efficient code incorporating best practises and established design principles.
 
 If you would like to get in touch, you can reach me via [LinkedIn](https://www.linkedin.com/in/davepmartinz/).
 
