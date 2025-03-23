@@ -1,13 +1,14 @@
-## Hi, I'm Dave.
+## david@github:~/introduction$ cat introduction
 
-I'm a Software Developer experienced in full stack application development. I've had exposure to a wide variety of different programming and scripting languages, but my main stack has been Nodejs/Typescript, Express, MongoDB and Vuejs. My primary interests are backend development and systems design, as I'm highly engaged by finding elegant solutions to complex and technically challenging problems. I also place a high emphasis on quality over quantity, desiring to produce clean and efficient code incorporating best practises and established design principles.
+I'm a Senior Software Engineer experienced in E2E solution design and development of cloud-native applications. My expertise is in event-driven and asynchronous serverless solutions leveraging AWS products such as API Gateway, Lambda, DynamoDB, SQS, EventBridge, and many others.
 
 If you would like to get in touch, you can reach me via [LinkedIn](https://www.linkedin.com/in/davepmartinz/).
 
-This page will serve as somewhat of an index for the contents of my github. The repositories range across side-projects (most of which are unfinished :)), contributions, code samples, and so on. As a lot of my development work has been on in-house solutions in my public sector role, not too much of which is externally accessible, but I've provided sanitised samples where possible.
+This page will serve as somewhat of an index for the assorted contents of my github. The repositories range across side-projects (most of which are unpolished and unfinished :)), contributions, code samples, and so on. 
 
 
 ### Web Development
+* [MyPass](https://github.com/davidpmartin/mypass) : Password manager application built cloud-native, showcasing enhanced web security mechanisms such as OAuth auth code PKCE, MFA, E2E encryption, etc.
 * [Monitoring App](https://github.com/davidpmartin/sitemonitoring) : Real-time monitoring application for network and systems infrastructure across dozens of sites | Node (Typescript), Express, MongoDB, Vue, Gitlab CICD, Docker
 * [Chat App](https://github.com/davidpmartin/chat-app) : Chat messaging app | Node (Typescript), Express, MongoDB, Vue, SocketIO
 * [Qt-bot](https://github.com/davidpmartin/qt-bot) : Node.js discord bot
